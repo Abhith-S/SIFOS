@@ -10,7 +10,6 @@ Installations :
 4.Metamask Wallet extension
 
 
-
 Running project :
 
 1.Start ganache. Let it run on background.
